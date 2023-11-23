@@ -1,4 +1,5 @@
 # VIT-Grade-Guru
+[VIT-Grade-Guru](https://vit-grade-guru.netlify.app/)
 
 VIT Grade Guru is a web-based platform designed to simplify the calculation of GPA, CGPA, and predict the GPA required for achieving a 9-pointer at Vellore Institute of Technology. The platform follows the grading system implemented at VIT, ensuring accurate and institution-specific calculations.
 
