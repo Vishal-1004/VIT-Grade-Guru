@@ -59,7 +59,12 @@ export default function Footer() {
                   <Link to="/report">Report</Link>
                 </p>
                 <p>
-                  <Link to="/">Source Code</Link>
+                  <Link
+                    to="https://github.com/Vishal-1004/VIT-Grade-Guru"
+                    target="_blank"
+                  >
+                    Source Code
+                  </Link>
                 </p>
               </MDBCol>
 

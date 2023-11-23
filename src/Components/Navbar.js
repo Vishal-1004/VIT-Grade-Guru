@@ -57,15 +57,16 @@ const Navbar = () => {
                   <BiError /> &nbsp; Report Issue
                 </div>
               </button>
-              <a
+              <Link
                 className="btn btn-outline-dark px-3 me-3 my-1"
-                href="/"
+                to="https://github.com/Vishal-1004/VIT-Grade-Guru"
+                target="_blank"
                 role="button"
               >
                 <div className="d-flex align-items-center">
                   <FaGithub /> &nbsp; Source Code
                 </div>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
